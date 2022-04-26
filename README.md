@@ -1,4 +1,11 @@
-## Algunos apuntes de comandos importantes usados en el curso y que no conocía su función.
+# Apuntes de uso de Git
+
+La estructura básica de un repositorio de Git:
+
+<img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/Ciclo de vida de los ficheros en Git.png" width=60% height=60%>
+
+
+## Algunos comandos importantes y que no conocía su función
 
 `find .git/objects/ -type f`
 
