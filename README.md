@@ -4,6 +4,8 @@ La estructura básica de un repositorio de Git:
 
 <img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/Ciclo de vida de los ficheros en Git.png" width=60% height=60%>
 
+## Algunos comandos útiles
+
 <table>
 <thead>
   <tr>
@@ -126,3 +128,7 @@ La estructura básica de un repositorio de Git:
   </tr>
 </tbody>
 </table>
+
+## ¿Cómo deshacer cambios?
+
+<img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/undoing-changes-git.png" width=70% height=70%>
