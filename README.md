@@ -132,3 +132,8 @@ La estructura básica de un repositorio de Git:
 ## ¿Cómo deshacer cambios?
 
 <img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/undoing-changes-git.png" width=70% height=70%>
+
+## Archivo .gitignore
+
+<img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/gitignore-file.png" width=70% height=70%>
+
