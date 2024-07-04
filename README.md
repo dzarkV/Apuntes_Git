@@ -4,6 +4,36 @@ La estructura básica de un repositorio de Git:
 
 <img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/Ciclo de vida de los ficheros en Git.png" width=60% height=60%>
 
+## Recomendaciones
+
+Antes de hacer cualquier cosa, actualiza tu rama con la rama principal. Así se pueden arreglar conflictos más fácil:
+
+- cambia rama principal local
+`git switch main`
+- actualiza con repositorio remoto
+  `git pull origin main`
+- cambia a rama de trabajo
+  `git switch test`
+- une con la rama local actualizada
+  `git merge main`
+
+### ¿Ramas divergentes?
+
+Ante un commit antes de actualizar con la rama remota (un commit adelantado o ramas divergentes con el remoto)
+
+- deshacer un commit sin perder nada hecho, dejando archivos modificados en staged
+  `git reset --soft HEAD~1`
+- con esto ya se podrá hacer `git pull origin main` si es el caso, para traer lo wue le faltaba a la rama local
+
+### Herramientas de git
+
+Comando para usar GUI con Git:
+`git gui&`
+
+Herramienta para ver log de Git:
+`gitk&`
+
+
 ## Algunos comandos útiles
 
 <table>
