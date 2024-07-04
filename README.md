@@ -137,3 +137,6 @@ La estructura básica de un repositorio de Git:
 
 <img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/gitignore-file.png" width=70% height=70%>
 
+## ¿Cómo manejar los conflictos? (con el versionado de código 😛
+
+<img src="https://github.com/dzarkV/Apuntes_Git/blob/main/img/git-conflicts.png" width=70% height=70%>
